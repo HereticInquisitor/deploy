@@ -22,7 +22,7 @@ setup(
 name='deploy',
 version='0.0.1',
 author='Ayush',
-author_email='2021itb016.ayush@students.iiests.ac.in',
+author_email='bllablallaaa@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 )
